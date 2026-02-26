@@ -1,0 +1,31 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+.venv/
+venv/
+env/
+bin/
+obj/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Un-comment the next line if you want to keep raw data off GitHub
+# data/
+*.log
+mlruns/
+
+*.7z
+*.gz
+*.zip
